@@ -1,11 +1,11 @@
 [
-  "woldwide_hotels": {
+  "woldwide_hotels" = {
     "address" : "Le Méridien New York, Central Park",
     "stars" : 5, 
     "price" : "416 Br",
     "phone" : "+1 212-830-8000",
   },
-  "park_hotels": { 
+  "park_hotels" = { 
    "address" : " 17, Park St, Taltala, Kolkata, West Bengal 700016, India",
     "stars" : 5, 
     "price" : "240 Br",
