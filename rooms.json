@@ -1,0 +1,94 @@
+{
+  "rooms": [
+  {
+    "id":"test",
+    "title":"Ohio English",
+    "language":"English",
+    "complexity":"High",
+    "capacity":8,
+    "players":4,
+    "isPrivate":false
+  },
+  {
+    "id":"School_721",
+    "title":"School 721",
+    "language":"English",
+    "complexity":"High",
+    "capacity":8,
+    "players":2,
+    "isPrivate":false
+  },
+  {
+    "id":"Caplan_Central_Park",
+    "title":"Caplan: Central Park",
+    "language":"English",
+    "complexity":"High",
+    "capacity":6,
+    "players":1,
+    "isPrivate":false
+  },
+  {
+    "id":"TALK Miami Beach",
+    "title":"TALK Miami Beach",
+    "language":"English",
+    "complexity":"Low",
+    "capacity":4,
+    "players":3,
+    "isPrivate":true
+  },
+  {
+    "id":"TALK San Francisco",
+    "title":"TALK San Francisco",
+    "language":"English",
+    "complexity":"High",
+    "capacity":10,
+    "players":8,
+    "isPrivate":true
+  },
+  {
+    "id":"TALK Atlanta",
+    "title":"TALK Atlanta",
+    "language":"English",
+    "complexity":"Low",
+    "capacity":10,
+    "players":3,
+    "isPrivate":false
+  },
+  {
+    "id":"TALK Aventura",
+    "title":"TALK Aventura",
+    "language":"English",
+    "complexity":"Medium",
+    "capacity":8,
+    "players":2,
+    "isPrivate":false
+  },
+  {
+    "id":"TALK Miami",
+    "title":"TALK Miami",
+    "language":"English",
+    "complexity":"High",
+    "capacity":8,
+    "players":2,
+    "isPrivate":true
+  },
+  {
+    "id":"TALK Boston",
+    "title":"TALK Boston",
+    "language":"English",
+    "complexity":"Medium",
+    "capacity":8,
+    "players":5,
+    "isPrivate":true
+  },
+  {
+    "id":"TALK Fort Lauderdale",
+    "title":"TALK Fort Lauderdale",
+    "language":"Spanish",
+    "complexity":"High",
+    "capacity":12,
+    "players":2,
+    "isPrivate":true
+  }
+]
+}
